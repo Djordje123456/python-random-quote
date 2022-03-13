@@ -7,5 +7,5 @@ def funkcija():
 
   #print(quotes)
 
-if __name__== "__funkcija__":
-  main()
+if __name__== "__main__":
+  funkcija()
